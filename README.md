@@ -4,7 +4,7 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=thesy0207)](https://solved.ac/thesy0207)
 
 - 😄 개발과 주식, 그리고 새로운 인사이트를 좋아하는 산업공학도입니다
-- 📫 
+- 📫 Contact : thesy0207@khu.ac.kr
 
 <!--
 **ShiningSu0/ShiningSu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

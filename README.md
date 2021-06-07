@@ -5,7 +5,7 @@
 
 - 😄 개발과 새로운 인사이트를 좋아하는 산업공학도입니다.
 - 📫 Contact : thesy0207@khu.ac.kr
-
+![HitCount](https://github.com/ShiningSu0)]
 <!--
 **ShiningSu0/ShiningSu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

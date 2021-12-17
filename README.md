@@ -2,7 +2,6 @@
 !['s github stats](https://github-readme-stats.vercel.app/api?username=ShiningSu0&show_icons=true)
 
 - 😄 개발과 새로운 인사이트를 좋아하는 산업공학도입니다.
-- 📫 Contact : thesy0207@khu.ac.kr
 
 <!--
 **ShiningSu0/ShiningSu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
